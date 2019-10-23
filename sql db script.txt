@@ -1,0 +1,33 @@
+create database DateMatch;
+
+go
+
+use DateMatch;
+
+go
+
+CREATE TABLE dbo.Intervals
+(
+   ID int not null IDENTITY(1,1) primary key,
+   [Start] Date NOT NULL,
+   [End] Date NOT NULL
+);
+
+go
+
+INSERT INTO dbo.Intervals ([Start], [End]) 
+VALUES 
+     ('2018-01-01', '2018-01-03'),
+	 ('2018-01-01', '2018-01-31'),
+	 ('2018-01-03', '2018-01-05')
+
+go
+
+CREATE TABLE dbo.LogRecords
+(
+   ID int not null IDENTITY(1,1) primary key,
+   [Time] DateTime NOT NULL,
+   [Start] Date NOT NULL,
+   [End] Date NOT NULL,
+   isRequest bit NOT NULL
+);

@@ -1,0 +1,10 @@
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\bin\Debug\ConsoleWebAPI.exe.config
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\bin\Debug\ConsoleWebAPI.exe
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\bin\Debug\ConsoleWebAPI.pdb
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\obj\Debug\ConsoleWebAPI.csprojAssemblyReference.cache
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\obj\Debug\ConsoleWebAPI.csproj.CoreCompileInputs.cache
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\obj\Debug\ConsoleWebAPI.exe
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\obj\Debug\ConsoleWebAPI.pdb
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\SLN\ConsoleWebAPI\ConsoleWebAPI\obj\Debug\ConsoleWebAPI.csproj.CopyComplete

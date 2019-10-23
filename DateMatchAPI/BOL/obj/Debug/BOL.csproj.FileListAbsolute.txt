@@ -1,0 +1,12 @@
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\BOL.dll
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\BOL.pdb
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\DAL.dll
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\EntityFramework.dll
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\DAL.pdb
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\DAL.dll.config
+D:\Google Drive\SLN\DateMatchAPI\BOL\bin\Debug\EntityFramework.xml
+D:\Google Drive\SLN\DateMatchAPI\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+D:\Google Drive\SLN\DateMatchAPI\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\Google Drive\SLN\DateMatchAPI\BOL\obj\Debug\BOL.csproj.CopyComplete
+D:\Google Drive\SLN\DateMatchAPI\BOL\obj\Debug\BOL.dll
+D:\Google Drive\SLN\DateMatchAPI\BOL\obj\Debug\BOL.pdb
