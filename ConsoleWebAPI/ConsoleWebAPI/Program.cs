@@ -13,7 +13,7 @@ namespace ConsoleWebAPI
 {
     class Program
     {
-        static string uri = "http://localhost:44382/api/";
+        static string uri = "https://localhost:44382/api/";
 
         static void Main(string[] args)
         {
